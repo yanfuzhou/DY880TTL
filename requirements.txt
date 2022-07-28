@@ -1,0 +1,5 @@
+smbus2
+pynmea2
+pyserial
+raspy-qmc5883l
+pandas
