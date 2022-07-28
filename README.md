@@ -7,7 +7,7 @@ The DIYMall DY-880TTL GPS module comes with a QMC5883L 3-axis magnet compass, wh
 back side and antena side:
 ![DY880TTL](./docs/images/DY880TTL.png)
 
-The DY-880TTL GPS module only costs around $20 on [Amazon DIYMall Store](https://www.amazon.com/DY-880TTL-Antenna-Compass-QMC5883L-Betaflight/dp/B08FWYJ2TF/ref=sr_1_1?crid=2MFT2SBAPYZDP&keywords=DY-880TTL&qid=1659023178&sprefix=dy-880ttl%2Caps%2C134&sr=8-1), besides it also has an advantage of supporting multi-mode output, such as GPS+GLONASS (default), GPS+ Beidou, and GLONASS+ Beidou. In north america cities, it can normally get 10~12 satellites on average, so its accuracy is around 3~5m.
+The DY-880TTL GPS module only costs around $20 on [Amazon DIYMall Store](https://www.amazon.com/DY-880TTL-Antenna-Compass-QMC5883L-Betaflight/dp/B08FWYJ2TF/ref=sr_1_1?crid=2MFT2SBAPYZDP&keywords=DY-880TTL&qid=1659023178&sprefix=dy-880ttl%2Caps%2C134&sr=8-1), besides it also has an advantage of supporting multi-mode output, such as GPS+GLONASS (default), GPS+ Beidou, and GLONASS+ Beidou. In north america cities, it can normally get 10 ~ 12 satellites on average, so its accuracy is around 3 ~ 5m.
 
 In order to let it run and receive GPS data, we need connect it to a raspberry pi or an arduino board. Luckily, I have a raspberry pi zero/Wifi (let's call it Pi-0 in below) sitting on my workbench. Below is the wiring, which is very simple:
 
